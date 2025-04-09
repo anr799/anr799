@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anr799
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning java,python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8374619616
 
